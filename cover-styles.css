@@ -43,19 +43,19 @@ li:nth-of-type(1) {
 .socials {
     display:flex;
     margin:auto;
-    justify-content:space-around;
-    width:30%
+    justify-content:space-between;
+    width:15%;
 }
 
 #head-img {
-    height:8vh;
+    height:8vw;
     width:auto;
     margin:0;
     padding:0;
 }
 
 #head-text {
-    font-size:4.5vh;
+    font-size:4vw;
 }
 
 a {
